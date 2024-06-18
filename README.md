@@ -20,7 +20,7 @@ This is a Next.js application named [Project Name]. It includes a simple home pa
 
 ## Deployment
 
-This application is deployed on Vercel. You can view the live site at: [deployment URL]
+This application is deployed on Vercel. You can view the live site at: (<https://portfolio-as70w67rs-tlmoody84s-projects.vercel.app/>)
 
 - Technologies Used
 
