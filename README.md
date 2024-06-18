@@ -2,7 +2,7 @@
 
 ## Author: Tiffany Sharpe
 
-## This is my portfolio providing in detail, information about me. It also provides links of recently worked projects 
+## This is my portfolio providing in detail, information about me. It also provides links of recently worked projects
 
 This is a Next.js application named [Project Name]. It includes a simple home page with navigation links styled using Tailwind CSS
 
